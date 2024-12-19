@@ -172,3 +172,4 @@ Modify-test-because-of-readelf-not-update.patch
 remove-file-produced-by-bison.patch
 replace-space-with-tab.patch
 LoongArch-binutils-compatible-with-older-gcc.diff
+LoongArch-remove-test-cases-for-compatibility.patch
